@@ -110,6 +110,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="CANDIDATOS.JSON">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="ELEITORES.JSON">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="packages.config" />
     <None Include="Properties\DataSources\P2.Models.Candidato.datasource" />
     <None Include="Properties\DataSources\P2.Models.Eleitor.datasource" />
