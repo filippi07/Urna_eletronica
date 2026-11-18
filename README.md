@@ -1,3 +1,7 @@
+## Aviso
+
+Não foram usados nomes de partidos, siglas ou fotos de pessoas reais. Todos os dados são fictícios, a imagem usada nos candidatos e eleitores é a do personagem Relâmpago McQueen, do filme Carros.
+
 # Simulação de Urna Eletrônica Brasileira
 
 Projeto da disciplina de Desenvolvimento para Desktops (Sistemas de Informação, Uniara).
